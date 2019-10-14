@@ -6,7 +6,7 @@ Some of the topics covered were:
 
 - Testing a React application.
 - Using the `react-testing-library` testing framework.
-- Writing unit tests for React components.
+- Writing unit tests for React components..
 
 ## Instructions
 
